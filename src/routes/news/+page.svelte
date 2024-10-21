@@ -1,0 +1,1 @@
+<h2>News about learning SvelteKit</h2>
