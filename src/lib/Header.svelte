@@ -3,7 +3,7 @@
 </script>
 
 <header>
-    <h1>{headingTitle}</h1>
+    <h2>{headingTitle}</h2>
     
 </header>
 
