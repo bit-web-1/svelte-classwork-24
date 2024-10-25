@@ -1,6 +1,7 @@
 <script>
     export let data;
-    console.log(data);
+    const posts = data.posts; //This holds my array of posts
 </script>
 
 <h2>News about learning SvelteKit</h2>
+
